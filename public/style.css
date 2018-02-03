@@ -1,0 +1,15 @@
+.wrapper {
+  display:grid;
+  -ms-grid-column-span:2fr 2fr 1fr;
+}
+body {
+  background: grey;
+}
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.text-portion {
+  font-family: 'Open Sans';
+}
+
